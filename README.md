@@ -23,6 +23,6 @@
 
 ## 📫 Let's Connect
 
-- ✉️ Email: [tekendrajoshi42@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/tekendra-joshi](www.linkedin.com/in/tekendra-joshi/)
+- ✉️ Email: tekendrajoshi42@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/tekendra-joshi](https://www.linkedin.com/in/tekendra-joshi/)
 - 🧑‍💻 GitHub: [github.com/tekendrajoshi](https://github.com/tekendrajoshi)
